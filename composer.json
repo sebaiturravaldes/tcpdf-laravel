@@ -1,6 +1,6 @@
 
 {
-  "name": "elibyy/tcpdf-laravel",
+  "name": "siturra/tcpdf-laravel",
   "description": "tcpdf support for laravel 5",
   "minimum-stability": "stable",
   "license": "MIT",
@@ -16,7 +16,7 @@
 	}
   ],
   "require": {
-	"illuminate/support": "5.6.*",
+	"illuminate/support": "5.5.*",
 	"tecnickcom/tcpdf": "6.2.*"
   },
   "autoload": {
